@@ -1,0 +1,1 @@
+{"name":"Local: FerrisWheel","url":"/home/gopal/Documents/dsa/cp/cses/sortingAndSearch/FerrisWheel.cpp","tests":[{"id":1728364199561,"input":"4 10\n7 2 3 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gopal/Documents/dsa/cp/cses/sortingAndSearch/FerrisWheel.cpp","group":"local","local":true}

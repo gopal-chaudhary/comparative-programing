@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/home/gopal/Documents/dsa/cp/test/test.cpp","tests":[{"id":1728637472472,"input":"12243660","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gopal/Documents/dsa/cp/test/test.cpp","group":"local","local":true}

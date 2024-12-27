@@ -1,0 +1,1 @@
+{"name":"Local: graycode","url":"/home/gopal/Documents/dsa/cp/cses/graycode.cpp","tests":[{"id":1727752318476,"input":"2","output":"00\n01\n11\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/gopal/Documents/dsa/cp/cses/graycode.cpp","group":"local","local":true}
